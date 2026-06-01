@@ -1,6 +1,6 @@
 const aluno ={
-    nome: "Henrique",
-    idade: 16,
+    nome: "lorenzo",
+    idade: 15,
     cidade: "Cascavel",
     curso: "D.S"
 };
